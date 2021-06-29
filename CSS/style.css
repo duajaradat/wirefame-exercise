@@ -1,0 +1,85 @@
+
+header{
+    background-color: rgba(9, 104, 9, 0.74);
+   height: 120px;
+position: sticky;
+}
+
+header nav{
+    display: inline-block;
+  
+}
+header nav ul li{
+    display: inline-block;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-bottom: 50px;
+}
+header nav ul{
+    padding-left: 70px;
+    padding-bottom: 60px;
+   
+}
+header nav ul li a{
+    text-decoration:none ;
+    text-align: center;
+    color:rgb(194, 110, 49);
+    font-size:x-large ;
+}
+
+header  img{
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 30px;
+}
+
+body{
+    background-color: rgba(72, 161, 72, 0.74); 
+}
+main section{
+    padding-top: 40px;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+
+ main section article  {
+ display: inline-block;
+ padding: 10px;
+ padding-top: 30px;
+
+} 
+
+main div img{
+    margin-left: 200px;
+    display:inline-flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+ main div  p ,button{
+    margin-left: 700px;  
+    margin-top: -250px;
+    padding:5px; 
+    margin-bottom: 20px;
+    
+}
+main div h3{
+ font-size:x-large; 
+     color:rgb(194, 110, 49);
+     margin-left: 700px;
+     margin-top: -200px;
+     margin-bottom: 250px;
+}
+main div p {
+    overflow:scroll;
+    margin-right: 400px;
+    
+}
+
+footer{
+    background-color: rgba(9, 104, 9, 0.74);
+     height: 50px;
+    
+} 
